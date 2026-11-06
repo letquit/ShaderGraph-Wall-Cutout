@@ -1,0 +1,14 @@
+D:\UnityProject\ShaderGraph-Wall-Cutout\Tools\WakaTime.Tests\bin\Debug\net8.0\WakaTime.Tests.exe
+D:\UnityProject\ShaderGraph-Wall-Cutout\Tools\WakaTime.Tests\bin\Debug\net8.0\WakaTime.Tests.deps.json
+D:\UnityProject\ShaderGraph-Wall-Cutout\Tools\WakaTime.Tests\bin\Debug\net8.0\WakaTime.Tests.runtimeconfig.json
+D:\UnityProject\ShaderGraph-Wall-Cutout\Tools\WakaTime.Tests\bin\Debug\net8.0\WakaTime.Tests.dll
+D:\UnityProject\ShaderGraph-Wall-Cutout\Tools\WakaTime.Tests\bin\Debug\net8.0\WakaTime.Tests.pdb
+D:\UnityProject\ShaderGraph-Wall-Cutout\Tools\WakaTime.Tests\obj\Debug\net8.0\WakaTime.Tests.GeneratedMSBuildEditorConfig.editorconfig
+D:\UnityProject\ShaderGraph-Wall-Cutout\Tools\WakaTime.Tests\obj\Debug\net8.0\WakaTime.Tests.AssemblyInfoInputs.cache
+D:\UnityProject\ShaderGraph-Wall-Cutout\Tools\WakaTime.Tests\obj\Debug\net8.0\WakaTime.Tests.AssemblyInfo.cs
+D:\UnityProject\ShaderGraph-Wall-Cutout\Tools\WakaTime.Tests\obj\Debug\net8.0\WakaTime.Tests.csproj.CoreCompileInputs.cache
+D:\UnityProject\ShaderGraph-Wall-Cutout\Tools\WakaTime.Tests\obj\Debug\net8.0\WakaTime.Tests.dll
+D:\UnityProject\ShaderGraph-Wall-Cutout\Tools\WakaTime.Tests\obj\Debug\net8.0\refint\WakaTime.Tests.dll
+D:\UnityProject\ShaderGraph-Wall-Cutout\Tools\WakaTime.Tests\obj\Debug\net8.0\WakaTime.Tests.pdb
+D:\UnityProject\ShaderGraph-Wall-Cutout\Tools\WakaTime.Tests\obj\Debug\net8.0\WakaTime.Tests.genruntimeconfig.cache
+D:\UnityProject\ShaderGraph-Wall-Cutout\Tools\WakaTime.Tests\obj\Debug\net8.0\ref\WakaTime.Tests.dll
